@@ -1,0 +1,10 @@
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Login-portal\bin\Debug\Login-portal.exe.config
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Login-portal\bin\Debug\Login-portal.exe
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Login-portal\bin\Debug\Login-portal.pdb
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Login-portal\obj\Debug\Login_portal.Form1.resources
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Login-portal\obj\Debug\Login_portal.Properties.Resources.resources
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Login-portal\obj\Debug\Login-portal.csproj.GenerateResource.Cache
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Login-portal\obj\Debug\Login-portal.csproj.CoreCompileInputs.cache
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Login-portal\obj\Debug\Login-portal.exe
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Login-portal\obj\Debug\Login-portal.pdb
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Login-portal\obj\Debug\Login-portal.csprojResolveAssemblyReference.cache

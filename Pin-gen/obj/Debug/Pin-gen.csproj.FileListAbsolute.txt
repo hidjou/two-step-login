@@ -1,0 +1,19 @@
+C:\Users\Hidjou\Desktop\Pin-gen\Pin-gen\bin\Debug\Pin-gen.exe.config
+C:\Users\Hidjou\Desktop\Pin-gen\Pin-gen\bin\Debug\Pin-gen.exe
+C:\Users\Hidjou\Desktop\Pin-gen\Pin-gen\bin\Debug\Pin-gen.pdb
+C:\Users\Hidjou\Desktop\Pin-gen\Pin-gen\obj\Debug\Pin-gen.csprojResolveAssemblyReference.cache
+C:\Users\Hidjou\Desktop\Pin-gen\Pin-gen\obj\Debug\Pin_gen.Form1.resources
+C:\Users\Hidjou\Desktop\Pin-gen\Pin-gen\obj\Debug\Pin_gen.Properties.Resources.resources
+C:\Users\Hidjou\Desktop\Pin-gen\Pin-gen\obj\Debug\Pin-gen.csproj.GenerateResource.Cache
+C:\Users\Hidjou\Desktop\Pin-gen\Pin-gen\obj\Debug\Pin-gen.exe
+C:\Users\Hidjou\Desktop\Pin-gen\Pin-gen\obj\Debug\Pin-gen.pdb
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Pin-gen\bin\Debug\Pin-gen.exe.config
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Pin-gen\bin\Debug\Pin-gen.exe
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Pin-gen\bin\Debug\Pin-gen.pdb
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Pin-gen\obj\Debug\Pin-gen.csprojResolveAssemblyReference.cache
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Pin-gen\obj\Debug\Pin_gen.Form1.resources
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Pin-gen\obj\Debug\Pin_gen.Properties.Resources.resources
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Pin-gen\obj\Debug\Pin-gen.csproj.GenerateResource.Cache
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Pin-gen\obj\Debug\Pin-gen.csproj.CoreCompileInputs.cache
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Pin-gen\obj\Debug\Pin-gen.exe
+C:\Users\Hidjou\Desktop\Portfolio projects\Pin-gen\Pin-gen\obj\Debug\Pin-gen.pdb

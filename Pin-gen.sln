@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pin-gen", "Pin-gen\Pin-gen.csproj", "{5C1CA8D7-0AF0-4185-8A88-B0A1E6B626CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login-portal", "Login-portal\Login-portal.csproj", "{C1193332-B9B9-446B-878F-12EEBD5860DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C1CA8D7-0AF0-4185-8A88-B0A1E6B626CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1CA8D7-0AF0-4185-8A88-B0A1E6B626CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1CA8D7-0AF0-4185-8A88-B0A1E6B626CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1CA8D7-0AF0-4185-8A88-B0A1E6B626CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1193332-B9B9-446B-878F-12EEBD5860DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1193332-B9B9-446B-878F-12EEBD5860DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1193332-B9B9-446B-878F-12EEBD5860DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1193332-B9B9-446B-878F-12EEBD5860DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2789F1A-E304-4C09-9F85-4FD727F49AA8}
+	EndGlobalSection
+EndGlobal
